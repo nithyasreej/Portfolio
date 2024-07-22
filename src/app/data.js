@@ -43,7 +43,7 @@ export const projectsData = [
     name: "FreshBasket",
     description: "E-Commerce Website",
     date: "2022-05-01",
-    demoLink: "https://healthbeat.example.com",
+    demoLink: "",
   },
   {
     id: 5,
@@ -52,7 +52,13 @@ export const projectsData = [
     date: "2023-04-12",
     demoLink: "",
   },
-  
+  {
+    id: 5,
+    name: "Driver Fatigue Analysis",
+    description: "real-time driver fatigue detection, facial recognition to monitor driver’s eyes and facial expressions",
+    date: "2023-11-12",
+    demoLink: "",
+  },
 ];
 
 export const BtnList = [
